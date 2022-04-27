@@ -1,0 +1,8 @@
+F:\Cods\Labir\Labir\bin\Debug\Labir.exe.config
+F:\Cods\Labir\Labir\bin\Debug\Labir.exe
+F:\Cods\Labir\Labir\bin\Debug\Labir.pdb
+F:\Cods\Labir\Labir\obj\Debug\Labir.csproj.AssemblyReference.cache
+F:\Cods\Labir\Labir\obj\Debug\Labir.csproj.SuggestedBindingRedirects.cache
+F:\Cods\Labir\Labir\obj\Debug\Labir.csproj.CoreCompileInputs.cache
+F:\Cods\Labir\Labir\obj\Debug\Labir.exe
+F:\Cods\Labir\Labir\obj\Debug\Labir.pdb
